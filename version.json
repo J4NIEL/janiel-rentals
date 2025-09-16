@@ -3,7 +3,8 @@
     "download": "https://keymaster.fivem.net/",
     "changelog": {
         "1.0.1": [
-            "Fixed key distribution"
+            "Vehicle keys system fixed",
+            "Distance check moved to config"
         ]
     }
 }
