@@ -1,11 +1,15 @@
 {
-    "version": "1.2.1",
-    "download": "https://keymaster.fivem.net/",
-    "changelog": {
-        "1.2.1": [
-            "Rental Papers item description moved to locales",
-            "Added support for mrnewbvehiclekeys",
-            "Fixed wasabi_carlock give keys exports"
-        ]
-    }
+  "version": "1.3.5",
+  "download": "https://keymaster.fivem.net/",
+  "changelog": {
+    "1.3.5": [
+      "Rental Papers item description moved to locales",
+      "Added support for mrnewbvehiclekeys",
+      "Fixed wasabi_carlock give keys exports",
+      "Added auto-detection via janiel-core (inventory, target, vehicle keys, fuel)",
+      "Added no-target fallback (coords-based) for ESX and targetless setups",
+      "Improved QBox compatibility (player retrieval and money/inventory calls)",
+      "Improved ox_inventory provider (metadata, result handling, counts)"
+    ]
+  }
 }
