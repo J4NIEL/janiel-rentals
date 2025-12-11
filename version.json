@@ -1,8 +1,8 @@
 {
-  "version": "1.3.5",
+  "version": "1.3.6",
   "download": "https://keymaster.fivem.net/",
   "changelog": {
-    "1.3.5": [
+    "1.3.6": [
       "Rental Papers item description moved to locales",
       "Added support for mrnewbvehiclekeys",
       "Fixed wasabi_carlock give keys exports",
